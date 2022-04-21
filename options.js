@@ -1,5 +1,5 @@
 function options(version) {
-  if(verison < 001) {
+  if(version < 001) {
     var link = document.createElement('a');
     link.setAttribute('href', "./download.js"); 
     link.setAttribute('download', "download");
